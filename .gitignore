@@ -1,0 +1,11 @@
+# Large source raster (over GitHub's 100 MB limit)
+*.tif
+*.tiff
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
